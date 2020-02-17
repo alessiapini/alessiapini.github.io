@@ -2,11 +2,15 @@
 
 ## Computational Statistics 2
 
+[Course Syllabus](/courses/compstat2/syllabus.pdf)
+
 *Slides*
 
 [Introduction and Jacknife](/courses/compstat2/slides/01_Introduction_Jacknife.pdf)
 
 [Bootstrap](/courses/compstat2/slides/02_Bootstrap.pdf)
+
+[Bootstrap confidence interval and tests](/courses/compstat2/slides/03_Intervals_tests.pdf)
 
 *Lab*
 
@@ -15,3 +19,10 @@
 [Jacknife](/courses/compstat2/scripts/01_Jacknife.R)
 
 [Bootstrap](/courses/compstat2/scripts/02_Bootstrap.R)
+
+[Bootstrap confidence intervals](/courses/compstat2/scripts/03_CIs.R)
+
+[Bootstrap confidence intervals for regression](/courses/compstat2/scripts/04_CIs_Regression.R)
+
+[Bootstrap tests](/courses/compstat2/scripts/05_Tests.R)
+
