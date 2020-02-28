@@ -12,6 +12,8 @@
 
 [Bootstrap confidence interval and tests](/courses/compstat2/slides/03_Intervals_tests.pdf)
 
+[EM](/courses/compstat2/slides/04_EM.pdf)
+
 *Lab*
 
 [Monte Carlo](/courses/compstat2/scripts/00_MC.R)
@@ -26,3 +28,14 @@
 
 [Bootstrap tests](/courses/compstat2/scripts/05_Tests.R)
 
+*Assignments*
+
+[Assignment 1](/courses/compstat2/assignments/Assignment1.pdf)
+
+[Assignment 2](/courses/compstat2/assignments/Assignment2.pdf)
+
+[Assignment 3](/courses/compstat2/assignments/Assignment3.pdf)
+
+*Exam Texts*
+
+[Mock Exam](/courses/compstat2/exams/Mock_Exam.pdf)
