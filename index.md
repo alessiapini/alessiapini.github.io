@@ -1,18 +1,22 @@
 # About me
 
-I am tenure track Assistant Professor of Statistics at the Departmet of Statistical Sciences at Università Cattolica del Sacro Cuore of Milano.
+I am tenure track Assistant Professor of Statistics at the Departmet of Statistical Sciences at [Università Cattolica del Sacro Cuore](www.unicatt.it) of Milano (faculty of Economics).
 I work in the area of functional data analysis. 
 My full CV is available at this [link](EuroCV_AlessiaPini_EN.pdf).
 
 ## Contacts
 - Email: [alessia.pini@unicatt.it](alessia.pini@unicatt.it)
 - Institutional web page at [Università Cattolica del Sacro Cuore](https://docenti.unicatt.it/ppd2/it/docenti/68825/alessia-pini/profilo)
+- ORCID: [https://orcid.org/0000-0001-9235-3062](https://orcid.org/0000-0001-9235-3062)
+- Publires webpage: [https://publires.unicatt.it/en/persons/alessia-pini](https://publires.unicatt.it/en/persons/alessia-pini)
 
 # Research interests
 
 My research is largely focussed on nonparametric inference for functional and complex data, on both a global and a local perspective. 
 Specifically, I am interested into testing hypotheses on functional data (global tests), and to selecting the portions of the domain responsible for the rejection of a null hypothesis (local tests). 
+
 I have been working with multiple testing issues, with a focus on the control of family wise error rate, and false discovery rate, and on the extensions of such concepts to the case of functional data, where a continuous infinity of tests are performed.
+
 I am also interested in nonparametric inferential methods for complex data such as functional data defined on manifold domains, density functions, and networks. 
 Finally, I am currently working on parametric and nonparametric inferential methods for the correlation structure of functional data along the domain. 
 
