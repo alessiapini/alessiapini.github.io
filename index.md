@@ -28,3 +28,4 @@ Finally, I am currently working on parametric and nonparametric inferential meth
 
 - Università degli Studi Milano Bicocca - PhD in Economics, Statistics and Data Science: [Computational Statistics 2 @UniMib](/courses/compstat2/compstat2.md) 
 
+# [Publications](publications.md)
