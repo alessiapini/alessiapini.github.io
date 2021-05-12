@@ -9,11 +9,15 @@ I work in the areas of functional data analysis.
 
 # Research interests
 
-My research has been largely focussed on nonparametric local inference for functional data. Specifically, I am interested into testing hypotheses on functional data, and to selecting the portions of the domain responsible for the rejection of a null hypothesis. 
-I have been working with multiple testing issues, with a focus on the control of family wise error rate, and false discovery rate. I worked on the extensions of such concepts to the case of functional data, where a continuous infinity of tests are performed.
-I am currently working on the extension of such methods to object data, i.e., complex data that cannot be straightforwardly embedded in Euclidean or Hilbertian spaces (e.g., density functions, networks).
+My research is largely focussed on nonparametric inference for functional and complex data, on both a global and a local perspective. 
+Specifically, I am interested into testing hypotheses on functional data (global tests), and to selecting the portions of the domain responsible for the rejection of a null hypothesis (local tests). 
+I have been working with multiple testing issues, with a focus on the control of family wise error rate, and false discovery rate, and on the extensions of such concepts to the case of functional data, where a continuous infinity of tests are performed.
+I am also interested in nonparametric inferential methods for complex data such as functional data defined on manifold domains, density functions, and networks. 
+Finally, I am currently working on parametric and nonparametric inferential methods for the correlation structure of functional data along the domain. 
 
-# Teaching
+# Teaching 
 
-[Computational Statistics 2 @UniMib](/courses/compstat2/compstat2.md) 
+- Università Cattolica del Sacro Cuore: please visit my [institutional web-page](https://docenti.unicatt.it/ppd2/it/docenti/68825/alessia-pini/profilo) for more information about my teaching activities at Università Cattolica del Sacro Cuore.
+
+- Università degli Studi Milano Bicocca - PhD in Economics, Statistics and Data Science: [Computational Statistics 2 @UniMib](/courses/compstat2/compstat2.md) 
 
