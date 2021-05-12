@@ -6,9 +6,9 @@ My full CV is available at this [link](EuroCV_AlessiaPini_EN.pdf).
 
 ## Contacts
 - Email: [alessia.pini@unicatt.it](alessia.pini@unicatt.it)
-- Institutional web page at [Università Cattolica del Sacro Cuore](https://docenti.unicatt.it/ppd2/it/docenti/68825/alessia-pini/profilo)
+- [Institutional web page](https://docenti.unicatt.it/ppd2/it/docenti/68825/alessia-pini/profilo) at Università Cattolica del Sacro Cuore
 - ORCID: [https://orcid.org/0000-0001-9235-3062](https://orcid.org/0000-0001-9235-3062)
-- Publires webpage: [https://publires.unicatt.it/en/persons/alessia-pini](https://publires.unicatt.it/en/persons/alessia-pini)
+- Publires: [https://publires.unicatt.it/en/persons/alessia-pini](https://publires.unicatt.it/en/persons/alessia-pini)
 
 # Research interests
 
