@@ -5,7 +5,7 @@ I work in the areas of functional data analysis.
 
 ## Contacts
 - Email: [alessia.pini@unicatt.it](alessia.pini@unicatt.it)
-- Institutional web page: [Università Cattolica del Sacro Cuore](https://docenti.unicatt.it/ppd2/it/docenti/68825/alessia-pini/profilo)
+- Institutional web page at [Università Cattolica del Sacro Cuore](https://docenti.unicatt.it/ppd2/it/docenti/68825/alessia-pini/profilo)
 
 # Research interests
 
