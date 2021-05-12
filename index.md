@@ -1,7 +1,7 @@
 # About me
 
 I am tenure track Assistant Professor of Statistics at the Departmet of Statistical Sciences at Università Cattolica del Sacro Cuore of Milano.
-I work in the areas of functional data analysis. 
+I work in the area of functional data analysis. 
 
 ## Contacts
 - Email: [alessia.pini@unicatt.it](alessia.pini@unicatt.it)
