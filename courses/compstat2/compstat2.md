@@ -19,19 +19,18 @@ This page contains the material for the course of Computational Statistics 2 (fi
 
 - *Lab*
 
-   - [Monte Carlo](/courses/compstat2/scripts/00_MC.R)
+   - [Model Validation](/courses/compstat2/scripts/0_CV.R)
 
-   - [Jacknife](/courses/compstat2/scripts/01_Jacknife.R)
+   - [Monte Carlo](/courses/compstat2/scripts/1_MC.R)
 
-   - [Bootstrap](/courses/compstat2/scripts/02_Bootstrap.R)
+   - [Jacknife](/courses/compstat2/scripts/2_Jacknife.R)
 
-   - [Bootstrap confidence intervals](/courses/compstat2/scripts/03_CIs.R)
+   - [Bootstrap](/courses/compstat2/scripts/3_Bootstrap.R)
 
-   - [Bootstrap confidence intervals for regression](/courses/compstat2/scripts/04_CIs_Regression.R)
+   - [Bootstrap confidence intervals](/courses/compstat2/scripts/4_CIs.R)
 
-   - [Bootstrap tests](/courses/compstat2/scripts/05_Tests.R)
+   - [Bootstrap confidence intervals for regression](/courses/compstat2/scripts/5_CIs_Regression.R)
+
+   - [Bootstrap tests](/courses/compstat2/scripts/6_Tests.R)
 
 
-- *Exam Texts*
-
-   [Mock Exam](/courses/compstat2/exams/Mock_Exam.pdf)

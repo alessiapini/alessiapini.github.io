@@ -6,6 +6,12 @@ x <- rnorm(20)
 results <- jackknife(x,mean)      
 results
 
+theta = function(x){
+  return(mean(x))
+}
+results2 <- jackknife(x,theta)      
+results2
+
 # in theory:
 sd(x)/sqrt(length(x))
 
@@ -32,7 +38,7 @@ theta <- function(x,datamatrix){
 theta(1:n,examScor)
 
 # jacknife estimate
-results.score <- jackknife(1:n,theta,examScor)      
+results.score <- jackknife(1:n,theta,datamatrix=examScor)      
 results.score
 
 layout(1)

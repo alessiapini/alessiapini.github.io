@@ -57,7 +57,7 @@ se.estimates[,6]
 # We use the parametric Bootstrap for the test score data
 # We assume that the distribution of the scores is multivariate Normal
 set.seed(1)
-B = 500
+B = 1000
 boot.replications = numeric(B)
 muhat = colMeans(examScor)
 Shat = cov(examScor)
@@ -69,6 +69,8 @@ for(b in 1:B){
   xstar = rmvnorm(n,muhat,Shat)
   boot.replications[b] = theta(xstar,1:n)
 }
+sd(boot.replications)
+
 
 pdf('ParBoot_Testscore.pdf',height=5)
 hist(boot.replications,main='Parametric Bootstrap Replications',col=rgb(214,234,244,maxColorValue = 255))
@@ -94,6 +96,8 @@ B = 1000
 mu = mean(data)
 sigma = sd(data)
 param.bootstrap = numeric(B)
+
+shapiro.test(data)
 
 for(i in 1:B){
   xstar = rnorm(n,mu,sigma)
@@ -135,7 +139,7 @@ sd(MC.sim)
 # we want to estimate the upper bound of the domain theta
 
 theta = 1
-n = 50
+n = 500
 set.seed(1)
 x = runif(n,0,theta)
 thetahat = max(x)
@@ -157,14 +161,14 @@ for(b in 1:B){
   boot.parametric[b] = thetahat.fn(xstar,1:n)
 }
 layout(cbind(1,2,3))
-hist(boot.parametric,xlim=c(0.8,1))
+hist(boot.parametric,xlim=c(0.97,1))
 
 
 
 
 set.seed(1)
 boot.nonparametric <- boot(data=x,statistic=thetahat.fn,R=B)      
-hist(boot.nonparametric$t,xlim=c(0.8,1))
+hist(boot.nonparametric$t,xlim=c(0.97,1))
 
 
 # MC simulation
@@ -173,7 +177,7 @@ for(b in 1:B){
   xstar = runif(n,0,1)
   MC.simulation[b] = max(xstar)
 }
-hist(MC.simulation,xlim=c(0.8,1))
+hist(MC.simulation,xlim=c(0.97,1))
 
 
 pdf('NonParamfailure.pdf',width=8,height=5)
@@ -183,6 +187,9 @@ hist(boot.nonparametric$t,probability=TRUE,main='Nonparametric Bootstrap',xlim=c
 hist(MC.simulation,probability=TRUE,main='Monte Carlo',xlim=c(0.8,1),ylim=c(0,40),col=rgb(221,166,13,maxColorValue = 255))
 dev.off()
 
+sd(boot.parametric)
+sd(boot.nonparametric$t)
+sd(MC.simulation)
 
 # Bootstrap is consistent for the median ------------------------------------
 # data simulated from a Binomial distribution with p=0.5 n = 10
@@ -222,7 +229,7 @@ data = rbinom(n,size = n.binom, prob = p.binom)
 
 #Boot
 boot.result = boot(data,sample.median,R=1000)
-sd(boot)
+sd(boot.result$t)
 #MC
 MC.medians = numeric(B)
 for(sim in 1:B){
