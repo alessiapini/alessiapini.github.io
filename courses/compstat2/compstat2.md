@@ -6,13 +6,16 @@ This page contains the material for the course of Computational Statistics 2 (fi
 
 - *Slides*
 
-   - [Introduction and Jacknife](/courses/compstat2/slides/01_Introduction_Jacknife.pdf)
+   - [Introduction and Model Validation](/courses/compstat2/slides/01_Introduction_1_Introduction and CV.pdf)
 
-   - [Bootstrap](/courses/compstat2/slides/02_Bootstrap.pdf)
+   - [Jacknife](/courses/compstat2/slides/2_Jacknife.pdf)
 
-   - [Bootstrap confidence interval and tests](/courses/compstat2/slides/03_Intervals_tests.pdf)
 
-   - [EM](/courses/compstat2/slides/04_EM.pdf)
+   - [Bootstrap](/courses/compstat2/slides/3_Bootstrap.pdf)
+
+   - [Bootstrap confidence interval and tests](/courses/compstat2/slides/4_4_Interval estimate and tests.pdf)
+
+   - [EM](/courses/compstat2/slides/5_EM.pdf)
 
 - *Lab*
 

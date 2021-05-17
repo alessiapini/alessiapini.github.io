@@ -29,7 +29,7 @@ Finotelli, P. Dipasquale, O., Costantini, I.,  Pini, A.,  Baglio, F., Baselli, G
 Pini, A.,  Stamm, A., Vantini, S. (2018): ``Hotelling's $T^2$ in functional Hilbert spaces'', Journal of Multivariate Analysis 167: 284--305 [https://doi.org/10.1016/j.jmva.2018.05.007](https://doi.org/10.1016/j.jmva.2018.05.007)
 
 
-Abramowicz, K.,De Luna, S.,  H\"ager, C.,  Pini, A.,  Schelin, L.,  Vantini, S. (2018): ``Nonparametric inference for functional-on-scalar linear models applied to knee kinematic hop data after injury of the anterior cruciate ligament'', Scandinavian Journal of Statistics 45(4): 1036--1061 [https://doi.org/10.1111/sjos.12333](https://doi.org/10.1111/sjos.12333)
+Abramowicz, K.,De Luna, S.,  Häger, C.,  Pini, A.,  Schelin, L.,  Vantini, S. (2018): ``Nonparametric inference for functional-on-scalar linear models applied to knee kinematic hop data after injury of the anterior cruciate ligament'', Scandinavian Journal of Statistics 45(4): 1036--1061 [https://doi.org/10.1111/sjos.12333](https://doi.org/10.1111/sjos.12333)
 
 
 Cremona, M. A.,  Pini, A., Cumbo, F., Makova, K. D., Chiaromonte, F., Vantini, S.	(2018): ``IWTomics: testing high-resolution sequence-based Omics data at multiple locations and scales''. Bioinformatics 34(13): 2289--2291 [https://doi.org/10.1093/bioinformatics/bty090](https://doi.org/10.1093/bioinformatics/bty090)
@@ -59,7 +59,7 @@ Pini, A., Stamm, A.,  Vantini (2017): ``Hotelling in wonderland'', in G. Aneiros
 
 Azzimonti, L.,  Cremona,  M. A.,   Ghiglietti, A., Ieva,  F.,  Menafoglio, A.,  Pini, A., Zanini, P. (2014): ``BARCAMP technology foresight and statistics for the future'', in A.  M.  Paganoni, P.  Secchi (eds) Advances in Complex Data Modeling and Computational Methods in Statistics, Springer.
 
-Abramowicz, K., Haäger, C.,Hèbert-Losier, K.,  Pini, A., Schelin, L., Strandberg, J., Vantini, S. (2014): ``An inferential framework for domain selection in functional ANOVA'', in E.  Bongiorno, A.   Goia, E.  Salinelli and P.  Vieu (eds) Contributions in infinite-dimensional statistics and related topics, Esculapio.
+Abramowicz, K., Häger, C.,Hèbert-Losier, K.,  Pini, A., Schelin, L., Strandberg, J., Vantini, S. (2014): ``An inferential framework for domain selection in functional ANOVA'', in E.  Bongiorno, A.   Goia, E.  Salinelli and P.  Vieu (eds) Contributions in infinite-dimensional statistics and related topics, Esculapio.
 
 
 Ferrario, E.,  Pini, A. (2013): ``Uncertainty analysis of a model of an energy distribution system with solar panel generation by time-varying data analysis, Monte Carlo simulation and fuzzy interval analysis'', in R. Steenbergen, P.  van Gelder, S.  Miraglia, A.   Vrouwenvelder (eds), Safety, reliability and Risk Analysis: Beyond the Horizon, CRC Press.
