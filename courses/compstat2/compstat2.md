@@ -34,5 +34,6 @@ This page contains the material for the course of Computational Statistics 2 (fi
    - [Bootstrap tests](/courses/compstat2/scripts/6_Tests.R)
 
 
-   - [TestScore data](/courses/compstat2/scripts/ExamScore.RData)
+   - [TestScore data](/courses/compstat2/scripts/examScor.RData)
+   
 - *Assignments*
