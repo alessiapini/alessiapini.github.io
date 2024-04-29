@@ -2,7 +2,58 @@
 
 ## Peer-Reviewed Journals
 
-Lundtorp Olsen, N., Pini, A., Vantini, S. (2021) ``False discovery rate for functional data'', TEST [https://doi.org/10.1007/s11749-020-00751-x](https://doi.org/10.1007/s11749-020-00751-x)
+Dondossola, D., Lonati, C., Pini, A., Bignamini, D., Zanella, A., Lombardi, R., Scaravilli,
+V., La Mura, V., Forzenigo, L., Biondetti, P., Grasselli, G., Fracanzani, A., Paleari, C.,
+Cespiati, A., Todaro, S. Cattaneo, E., Di Feliciantonio, M., Sigon, G., Valsecchi, C.,
+Guzzardella, A., Battistin, M., Iuculano, F. (2024) ``Portal hypertension-like pattern in
+coronavirus disease 2019 acute respiratory distress syndrome'' Journal of Critical Care
+82, 154759
+[https://doi.org/10.1016/j.jcrc.2024.154759](https://doi.org/10.1016/j.jcrc.2024.154759)
+
+
+Pini, A., Sorensen, H., Tolver, A., Vantini, S. (2023) ``Local inference for functional
+linear mixed models'' Computational Statistics & Data Analysis, 181, 107688 
+[https://doi.org/10.1016/j.csda.2022.107688](https://doi.org/10.1016/j.csda.2022.107688)
+
+Abramowicz, K., Pini, A., Schelin, L., Stamm, A., Vantini, S. (2022) ``Domain selection
+and familywise error rate for functional data: A unified framework'' Biometrics 
+[https://doi.org/10.1111/biom.13669](https://doi.org/10.1111/biom.13669)
+
+Codazzi, L., Colombi, A., Gianella, M., Argiento, R., Paci, L., Pini, A. (2022) “Gaussian
+graphical modeling for spectrometric data analysis” Computational Statistics & Data
+Analysis, 107416 
+[https://doi.org/10.1016/j.csda.2021.107416](https://doi.org/10.1016/j.csda.2021.107416)
+
+Rimalova, V., Fiserova, E., Menafoglio, A., Pini, A. (2022) ``Inference for spatial regression
+models with functional response using a permutational approach'' Journal of
+Multivariate Analysis
+[https://doi.org/10.1016/j.jmva.2021.104893](https://doi.org/10.1016/j.jmva.2021.104893)
+
+Pini, A., Markström, J., Schelin, L. (2022): ``Test–retest reliability measures for curve
+data: an overview with recommendations and supplementary code'', Sports Biomechanics
+21(2): 179–200. doi: 10.1080/14763141.2019.1655089
+[https://doi.org/10.1080/14763141.2019.1655089](https://doi.org/10.1080/14763141.2019.1655089)
+
+Pataky, T. C., Abramowicz, K., Liebl, D., Pini, A., Sjöstedt de Luna, S., Schelin, L.
+(2021) ``Simultaneous inference for functional data in sports biomechanics: Comparing
+statistical parametric mapping with interval-wise testing'', AStA Advances in Statistical
+Analysis 
+[https://doi.org/10.1007/s10182-021-00418-4](https://doi.org/10.1007/s10182-021-00418-4)
+
+Schelin, L., Pini, A., Markström, J. L., Hager, C. K. (2021) ``Test-retest reliability of entire
+time-series data from hip, knee and ankle kinematics and kinetics during one-leg hops
+for distance: Analyses using integrated pointwise indices'', Journal of Biomechanics
+Jul 19, 124:110546 
+[https://doi.org/10.1016/j.jbiomech.2021.110546](https://doi.org/10.1016/j.jbiomech.2021.110546)
+
+Strandberg, J., Pini, A., Hager, C.K., Schelin, L. (2021) ``Analysis Choices Impact Movement
+Evaluation: A Multi-Aspect Inferential Method Applied to Kinematic Curves of
+Vertical Hops in Knee-Injured and Asymptomatic Persons'', Frontiers in Bioengineering
+and Biotechnology 9: 375. 
+[https://doi.org/10.3389/fbioe.2021.645014](https://doi.org/10.3389/fbioe.2021.645014)
+
+
+Lundtorp Olsen, N., Pini, A., Vantini, S. (2021) ``False discovery rate for functional data'', TEST [https://doi.org/doi.org/10.1007/s11749-020-00751-x](https://doi.org/10.1007/s11749-020-00751-x)
 
 Pini, A., Dondossola, D., Ravaioli, M., Lonati, C., Maroni, L., Accardo, C., Germinario, G., Antonelli, B., Odaldi, F., Zanella, A., Siniscalchi, A., Cescon, M., Rossi, G. (2021) ``The role of ex-situ hypothermic oxygenated machine perfusion and cold preservation time in extended criteria DCD and DBD'', Liver Transplantation [https://doi.org/10.1002/lt.26067](https://doi.org/10.1002/lt.26067)
 

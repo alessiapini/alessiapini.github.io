@@ -1,6 +1,6 @@
 # About me
 
-I am tenure track Assistant Professor of Statistics at the Departmet of Statistical Sciences at [Università Cattolica del Sacro Cuore](www.unicatt.it) of Milano (faculty of Economics).
+I am Associate Professor of Statistics at the Departmet of Statistical Sciences at [Università Cattolica del Sacro Cuore](www.unicatt.it) of Milano (faculty of Economics).
 I work in the area of functional data analysis. 
 My full CV is available at this [link](EuroCV_AlessiaPini_EN.pdf).
 
