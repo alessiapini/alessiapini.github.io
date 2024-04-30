@@ -1,6 +1,12 @@
-# Alessia Pini
+---
+layout: default
+title: Alessia Pini
+description: Homepage
+---
 
 # About me
+
+![Alessia](alessia.png)
 
 I am Associate Professor of Statistics at the Departmet of Statistical Sciences at [Università Cattolica del Sacro Cuore](www.unicatt.it) of Milano (faculty of Economics).
 I work in the area of functional data analysis. 
