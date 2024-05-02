@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Alessia Pini
-description: Homepage
 ---
 
 # About me
