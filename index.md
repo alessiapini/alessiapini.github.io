@@ -29,7 +29,7 @@ Finally, I am currently working on parametric and nonparametric inferential meth
 
 # Recent talks
 
-- International Symposium on Nonparametric Statistics 2024. June 25-29, 2024 - Braga, Portugal [slides](/Talks/Pini_ISNPS2024.pdf)
+- International Symposium on Nonparametric Statistics 2024. June 25-29, 2024 - Braga, Portugal [slides](/Talks/Pini_ISNPS2024_new.pdf)
 
 
 # Teaching 
