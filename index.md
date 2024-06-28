@@ -27,6 +27,9 @@ I have been working with multiple testing issues, with a focus on the control of
 I am also interested in nonparametric inferential methods for complex data such as functional data defined on manifold domains, density functions, and networks. 
 Finally, I am currently working on parametric and nonparametric inferential methods for the correlation structure of functional data along the domain. 
 
+# Recent talks
+
+- International Symposium on Nonparametric Statistics 2024. June 25-29, 2024 - Braga, Portugal [slides](/Talks/Pini_ISNPS2024.pdf)
 
 
 # Teaching 
