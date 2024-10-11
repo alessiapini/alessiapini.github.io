@@ -5,6 +5,8 @@ title: Publications
 
 ## Peer-Reviewed Journals
 
+Seydi M.R., Pini, A., Pataky, T., Schelin, L. (2024) ``Confidence sets for intraclass correlation coefficients in test–retest curve measurements'' Journal of Biomechanics 173, 112232, [https://doi.org/10.1016/j.jbiomech.2024.112232](https://doi.org/10.1016/j.jbiomech.2024.112232)
+
 Dondossola, D., Lonati, C., Pini, A., Bignamini, D., Zanella, A., Lombardi, R., Scaravilli,
 V., La Mura, V., Forzenigo, L., Biondetti, P., Grasselli, G., Fracanzani, A., Paleari, C.,
 Cespiati, A., Todaro, S. Cattaneo, E., Di Feliciantonio, M., Sigon, G., Valsecchi, C.,
