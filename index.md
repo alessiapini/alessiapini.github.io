@@ -19,7 +19,7 @@ My full CV is available at this [link](EuroCV_AlessiaPini_EN.pdf).
 
 # Research interests
 
-My research is largely focussed on nonparametric inference for functional and complex data, on both a global and a local perspective. 
+My research is largely focused on nonparametric inference for functional and complex data, on both a global and a local perspective. 
 Specifically, I am interested into testing hypotheses on functional data (global tests), and to selecting the portions of the domain responsible for the rejection of a null hypothesis (local tests). 
 
 I have been working with multiple testing issues, with a focus on the control of family wise error rate, and false discovery rate, and on the extensions of such concepts to the case of functional data, where a continuous infinity of tests are performed.
