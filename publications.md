@@ -3,7 +3,13 @@ layout: default
 title: Publications
 ---
 
-## Peer-Reviewed Journals
+You find the complete list of my publications at this [link](https://docenti.unicatt.it/ppd2/it/docenti/68825/alessia-pini/pubblicazioni). 
+
+
+# Selected publications
+
+Here is a list of selected publications in scientific journals.
+
 
 Seydi M.R., Pini, A., Pataky, T., Schelin, L. (2024) ``Confidence sets for intraclass correlation coefficients in test–retest curve measurements'' Journal of Biomechanics 173, 112232, [https://doi.org/10.1016/j.jbiomech.2024.112232](https://doi.org/10.1016/j.jbiomech.2024.112232)
 
@@ -106,19 +112,3 @@ Pini, A.,   Vantini, S. (2016): ``The interval testing procedure: a general fram
 
 Hèbert-Losier, K.,  Pini,    A.,   Vantini, S.,   Strandberg,  J.,  Abramowicz,  K., Schelin, L.,    Häger, C. (2015): ``One-leg hop kinematics 20 years following anterior cruciate ligament rupture: data revisited using functional data analysis''. Clinical biomechanics. Dec;30(10):1153--1161 [https://doi.org/10.1016/j.clinbiomech.2015.08.010](https://doi.org/10.1016/j.clinbiomech.2015.08.010)
 
-## Book Chapters
-
-Olsen, N.,  Pini, A.,  Vantini, S. (2020): ``Local Inference for Functional Data Controlling the Functional False Discovery Rate.'', in G. Aneiros, I. Horov\'a, M. Huskov\'a, P. Vieu (eds) Functional and High-Dimensional Statistics and Related Fields, Springer.
-
-
-Pini, A., Spreafico, L.,  Vantini, S., Vietti, A.  (2017): ``Differential interval-wise testing for local inference in Sobolev spaces'', in G. Aneiros, E. Bongiorno, R. Cao, P. Vieu (eds) Functional Statistics and Related Fields, Springer.
-
-Pini, A., Stamm, A.,  Vantini (2017): ``Hotelling in wonderland'', in G. Aneiros, E. Bongiorno, R. Cao, P. Vieu (eds) Functional Statistics and Related Fields, Springer.
-
-
-Azzimonti, L.,  Cremona,  M. A.,   Ghiglietti, A., Ieva,  F.,  Menafoglio, A.,  Pini, A., Zanini, P. (2014): ``BARCAMP technology foresight and statistics for the future'', in A.  M.  Paganoni, P.  Secchi (eds) Advances in Complex Data Modeling and Computational Methods in Statistics, Springer.
-
-Abramowicz, K., Häger, C.,Hèbert-Losier, K.,  Pini, A., Schelin, L., Strandberg, J., Vantini, S. (2014): ``An inferential framework for domain selection in functional ANOVA'', in E.  Bongiorno, A.   Goia, E.  Salinelli and P.  Vieu (eds) Contributions in infinite-dimensional statistics and related topics, Esculapio.
-
-
-Ferrario, E.,  Pini, A. (2013): ``Uncertainty analysis of a model of an energy distribution system with solar panel generation by time-varying data analysis, Monte Carlo simulation and fuzzy interval analysis'', in R. Steenbergen, P.  van Gelder, S.  Miraglia, A.   Vrouwenvelder (eds), Safety, reliability and Risk Analysis: Beyond the Horizon, CRC Press.
