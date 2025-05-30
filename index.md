@@ -29,6 +29,10 @@ Finally, I am currently working on parametric and nonparametric inferential meth
 
 # Recent talks
 
+
+- CMStatistics 2024. December 14-16, 2024 - London, UK [slides](/Talks/Pini_CMStat2024.pdf)
+
+
 - International Symposium on Nonparametric Statistics 2024. June 25-29, 2024 - Braga, Portugal [slides](/Talks/Pini_ISNPS2024_new.pdf)
 
 
