@@ -15,6 +15,9 @@ coronavirus disease 2019 acute respiratory distress syndrome'' Journal of Critic
 82, 154759
 [https://doi.org/10.1016/j.jcrc.2024.154759](https://doi.org/10.1016/j.jcrc.2024.154759)
 
+Colombi, A., Argiento, R., Paci, L., Pini, A. (2023) ``Learning Block Structured Graphs
+in Gaussian Graphical Models'' Journal of Computational and Graphical Statistics, 
+[https://doi.org/10.1080/10618600.2023.2210184](https://doi.org/10.1080/10618600.2023.2210184)
 
 Pini, A., Sorensen, H., Tolver, A., Vantini, S. (2023) ``Local inference for functional
 linear mixed models'' Computational Statistics & Data Analysis, 181, 107688 
