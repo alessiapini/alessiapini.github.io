@@ -30,7 +30,7 @@ Finally, I am currently working on parametric and nonparametric inferential meth
 # Recent talks
 
 
-- CMStatistics 2024. December 14-16, 2024 - London, UK [slides](/Talks/Pini_CMStat2024.pdf)
+- SDS 2025 Statistical Methods for Data Analysis and Decision Sciences. April 2-3, 2025 - Milan, Italy [slides](/Talks/Pini_SDS2025.pdf)
 
 
 - CMStatistics 2024. December 14-16, 2024 - London, UK [slides](/Talks/Pini_CMStat2024.pdf)
