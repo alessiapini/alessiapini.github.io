@@ -36,3 +36,13 @@ This page contains the material for the course of Computational Statistics 2 (fi
 
    - [TestScore data](/courses/compstat2/scripts/examScor.RData)
    
+- *Assignments*
+
+The exam of Computational Statistics II consists in the solution of one assignment on one of the course topics. Students can choose one among the following three assignments.
+Students are asked to answer to all the points of the chosen assignment (with the possible exception of the last one, that can give a few extra points) to reach the pass mark. The solution, in form of a written report, has to be sent by [email](alessia.pini@unicatt.it) by the end of the exam session. The written report should contain all comments and answers to the questions, along with the R code that they have used to solve the assignment. 
+
+   - [Assignment 1](/courses/compstat2/assignments/Assignment1.pdf)
+
+   - [Assignment 2](/courses/compstat2/assignments/Assignment2.pdf)
+
+   - [Assignment 3](/courses/compstat2/assignments/Assignment3.pdf)
