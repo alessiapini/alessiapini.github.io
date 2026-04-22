@@ -22,20 +22,22 @@ My full CV is available at this [link](EuroCV_AlessiaPini_EN.pdf).
 My research is largely focused on nonparametric inference for functional and complex data, on both a global and a local perspective. 
 Specifically, I am interested into testing hypotheses on functional data (global tests), and to selecting the portions of the domain responsible for the rejection of a null hypothesis (local tests). 
 
+I am also interested in joint alignment and inference on functional data, e.g., methods that can jointly align curves and draw some inferntial conclusions on them (compute the mean curve, compare groups, etc).
+
 I have been working with multiple testing issues, with a focus on the control of family wise error rate, and false discovery rate, and on the extensions of such concepts to the case of functional data, where a continuous infinity of tests are performed.
 
-I am also interested in nonparametric inferential methods for complex data such as functional data defined on manifold domains, density functions, and networks. 
-Finally, I am currently working on parametric and nonparametric inferential methods for the correlation structure of functional data along the domain. 
+I am also interested in nonparametric inferential methods for complex data such as functional data defined on manifold domains, density functions, and networks. I am currently working on hypothesis tests for populations of densities. 
+Finally, I am currently working on parametric and nonparametric inferential methods for the correlation structure of functional data along the domain, with application to spectrometric data. 
 
 # Recent talks
 
 
-- SDS 2025 Statistical Methods for Data Analysis and Decision Sciences. April 2-3, 2025 - Milan, Italy [slides](/Talks/Pini_SDS2025.pdf)
+- CMStat 2025 19th International Joint Conference on Computational and Methodological Statistics December 13-15, 2025 - London, UK [slides](/Talks/Pini_CMStat2025.pdf)
 
 
-- CMStatistics 2024. December 14-16, 2024 - London, UK [slides](/Talks/Pini_CMStat2024.pdf)
 
-- International Symposium on Nonparametric Statistics 2024. June 25-29, 2024 - Braga, Portugal [slides](/Talks/Pini_ISNPS2024_new.pdf)
+- IWFOS 2025 International Workshop on Functional and Operatorial Statistics. June 25–27, 2025 - Novara, Italy [slides](/Talks/Pini_IWFOS2025.pdf)
+
 
 
 # Teaching 
